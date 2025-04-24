@@ -1,6 +1,6 @@
 import requests
 
-root_url = "https://mymustangs.milton.edu/grammar/exercisePrint.cfm?LQID="
+root_url = "https://mymustangs.milton.edu/grammar/answerPrint.cfm?LQID="
 
 # 92-95
 # 115-118
@@ -16,4 +16,5 @@ for id in ids:
     # get the pdf and save it to the current directory
     response = requests.get(url)
     with open(f"{id}.pdf", "wb") as f:
+        # all of these pdfs are not my property and I do not own the rights to them
         f.write(response.content)
