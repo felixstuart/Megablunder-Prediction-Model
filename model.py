@@ -10,4 +10,6 @@ print(df.head())
 label_encoder = LabelEncoder()
 df['error_type'] = label_encoder.fit_transform(df['error_type'])
 
-# 2. Split the data into training and testing sets
+print(df.head())
+
+# vectorize the text
