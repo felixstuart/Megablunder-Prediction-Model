@@ -41,7 +41,7 @@ Henri remembered how much he loved Madeleine as he leafed through the photo albu
 Driving cars that get 15 miles per gallon is a good idea neither for ourselves nor future generations.,PAR
 "Ulysses promised to strive, to seek, to find, and that he would never yield.",PAR
 "As a responsible hiker, we should take care of our own equipment so that the guides can concentrate on following the trail.",AGREE
-"ERROR: NONE  4.  ORIGINAL SENTENCE: Dangling from the lip of a thousand-foot precipice, sleet began to fall.",DM
+"Dangling from the lip of a thousand-foot precipice, sleet began to fall.",DM
 "The problem was not that there were too many visitors, it was that the ferry didn't make enough trips.",ROS
 The teacher offered a prize of ten snack bar dollars for whomever committed the fewest Megablunders in the course of the year.,CASE
 "When the Ostrogoths encountered the Visigoths at Tintinium in A.D. 479, they were put to flight in less than an hour.",PR
@@ -120,7 +120,7 @@ Bill is one of the boys who are constantly late. Even though he usually has a pl
 "Apparently, what angered Mr. Polk was me giving my ideas freely to the rest of the students, who then used those ideas in a series of opinion articles that were critical of his teaching.",CASE
 
 "Relieved that the exam was finally over, laptops were closed.",DM
-"Experiencing a perversely intense feeling of satisfaction he noticed, yet another dangling modifier in the New York Times.",NONE
+"Experiencing a perversely intense feeling of satisfaction he noticed yet another dangling modifier in the New York Times.",NONE
 "To pay attention fully during your online class, cell phones must be put away.",DM
 "Unbearably thirsty, the track meet was unendurable because of the sun.",DM
 
@@ -131,7 +131,7 @@ Bill is one of the boys who are constantly late. Even though he usually has a pl
 "The Sox almost never go down uneventfully, which is the most frustrating thing for their legion of fans.",PR
 "The Red Sox rarely leave a season without drama, which adds another layer of frustration for their loyal supporters.",PR
 "Because of the accumulated bad karma that hangs over the franchise, the skill of the players in any given year seem to be irrelevant to the outcome.",AGREE
-"Due to the endless bad luck plaguing the team, the performance of the players each season appears to be utterly meaningless.",AGREE
+"Due to the endless bad luck plaguing the team, the performance of the players each season appears to be utterly meaningless.",NONE
 The team not only has squandered huge leads but also it has come roaring from behind only to fall short.to fall short.,PAR
 "The team has not only blown huge leads, but also fought valiantly from behind only to ultimately falter.",PAR
 The many disappointments over the years leave fans wanting to tear their hair out; or possibly organize a boycott of Fenway Park.,FRAG
@@ -152,7 +152,7 @@ The ingenuous phrase that Gabbo uses repeatedly wins laughs from his audience.,M
 "The clever catchphrase Gabbo repeats over and over gets endless laughs from his audience.",MM
 "Inspired by their love for Krusty, who has been their favorite entertainer throughout their childhood, Bart and Lisa swing into action with a plan to rehabilitate him.",NONE
 "Motivated by their deep admiration for Krusty, the beloved entertainer of their youth, Bart and Lisa jump into action with a clever plan to save him.",NONE
-A ventriloquist’s dummy should watch its back when it is both up against a determined clown and two wily kids.,PAR
+A ventriloquistâ€™s dummy should watch its back when it is both up against a determined clown and two wily kids.,PAR
 "A ventriloquist's dummy better watch out when it faces a clever clown and two sneaky kids.",PAR
 Bart reveals to Gabbo's fans that he has a weakness for indecent language.,PR
 "Bart spills the beans to Gabbo's fans, letting them in on his soft spot for foul language.",PR
@@ -165,7 +165,7 @@ Bart reveals to Gabbo's fans that he has a weakness for indecent language.,PR
 "Because they stuck by him and to thank them for organizing his comeback, Krusty throws a party for the children at Moe's and agrees to let them keep 50% of the T-shirt sales.",PAR
 "To show his gratitude for their unwavering support, Krusty throws a party at Moe's, giving the kids 50% of the T-shirt sales.",PAR
 "The tenant, whose claims to have been educated at Oxford were unverified, was obviously a tremendous reader: they were stacked on his desk, under his bed, beside the sink, and even in the kitchen cabinets.",PR
-"The tenant, claiming an Oxford education with no proof, was a serious bookworm—his reading materials were piled everywhere: on his desk, under his bed, by the sink, and even in the kitchen cabinets.",PR
+"The tenant, claiming an Oxford education with no proof, was a serious bookwormâ€”his reading materials were piled everywhere: on his desk, under his bed, by the sink, and even in the kitchen cabinets.",PR
 "Having been stalled in committee for months, the promotion for which I made such an extraordinary effort went to someone else because of a personality conflict between my boss and I.",CASE
 "After months of delay in committee, the promotion I worked so hard for was awarded to someone else, all because of a personality clash between my boss and me.",CASE
 "Homer wondered whether he could climb Mount Springfield without oxygen while he sat on the famous living room couch, which appears in every episode, and ate Pringles straight from the tube.",MM
@@ -173,15 +173,15 @@ Bart reveals to Gabbo's fans that he has a weakness for indecent language.,PR
 "The students not only held a wild party but also lied about it when they were questioned, therefore the D.C. imposed a severe punishment.",ROS
 "The students threw a wild party, then lied about it under questioning, resulting in a harsh punishment from the D.C.",ROS
 "Preparing to fight Drederick Tatum for the world heavyweight crown, the story of Mo's boxing career, which thrived on inventive rules violations, inspires Homer to fill his own gloves with barbed wire.",DM
-"Getting ready for a showdown with Drederick Tatum for the heavyweight title, Mo's boxing history—full of creative rule-breaking—encourages Homer to stuff his gloves with barbed wire.",DM
+"Getting ready for a showdown with Drederick Tatum for the heavyweight title, Mo's boxing historyâ€”full of creative rule-breakingâ€”encourages Homer to stuff his gloves with barbed wire.",DM
 "Neither the team, which pays Pedro's salary, nor the fans, who idolize him, were thrilled by his lackluster performance in the month of September.",NONE
-"Neither the team, funding Pedro’s hefty salary, nor the fans who worship him, were pleased with his unimpressive performance last September.",NONE
+"Neither the team, funding Pedroâ€™s hefty salary, nor the fans who worship him, were pleased with his unimpressive performance last September.",NONE
 "The students who didn't study for the grammar test earned low grades. Although Rosamund, whose grammatical intuition was good, did better than the rest of them.",FRAG
 "The students who skipped studying for the grammar test ended up with low grades. However, Rosamund, who had a natural talent for grammar, aced it.",FRAG
 "Tom reminded Zachary that because of the 2000-word paper, which remained to be written, he would not have time for either a party or a movie that night.",PR
 "Tom reminded Zachary that with the 2000-word paper still unwritten, there would be no time for a party or a movie that evening.",PR
 "Stability being an important value, a computer that comes equipped with many expensive bells and whistles are not necessarily superior to a well-engineered low-end machine.",AGREE
-"Stability is crucial, and a computer full of flashy features isn't always better than a well-built, budget-friendly machine.",AGREE
+"Stability is crucial, and a computer full of flashy features isn't always better than a well-built, budget-friendly machine.",NONE
 "In the interests of getting into college, Zack has studied diligently, cultivated his skills, and he has curried favor with whoever might be willing to write him a recommendation.",PAR
 "To get into college, Zack has studied hard, honed his skills, and charmed anyone willing to write him a glowing recommendation.",PAR
 "The cove ended in a tidal pond, which had once been dammed to power a mill wheel.",NONE
