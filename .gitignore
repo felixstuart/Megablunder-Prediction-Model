@@ -1,0 +1,6 @@
+# Virtual environment
+.venv/
+.venv
+node_modules
+model
+tokenizermodel/model.safetensors
