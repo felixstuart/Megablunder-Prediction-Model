@@ -19,7 +19,7 @@ function App() {
   const colorErrorMappings = {
     DM: "bg-amber-600",
     MM: "bg-yellow-400",
-    CASE: "bg-fuschia-400",
+    CASE: "bg-fuchsia-400",
     PAR: "bg-purple-700",
     PR: "bg-rose-500",
     FRAG: "bg-indigo-800",
