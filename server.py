@@ -19,8 +19,8 @@ app.add_middleware(
 )
 
 
-model = AutoModelForSequenceClassification.from_pretrained("./model")
-tokenizer = AutoTokenizer.from_pretrained("./tokenizer")
+model = AutoModelForSequenceClassification.from_pretrained("./exports/model")
+tokenizer = AutoTokenizer.from_pretrained("./exports/tokenizer")
 
 label_list = ["AGREE", "DM", "MM", "ROS", "PR", "PAR", "FRAG", "CASE", "NONE"]
 
