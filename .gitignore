@@ -3,5 +3,7 @@
 .venv
 node_modules
 model
-tokenizermodel/model.safetensors
+tokenizer
+model/model.safetensors
 .vscode
+__pycache__

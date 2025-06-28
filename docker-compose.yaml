@@ -1,0 +1,22 @@
+version: "3.9"
+
+
+services: 
+  web:
+    build: 
+      context:
+        ./website
+    ports: 
+      - "5173:5173"
+    volumes:
+      - ./website:/app
+      - /app/node_modules
+  classifier: 
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+    ports: 
+      - "8000:8000"
+    volumes:
+      - ./exports:/app/exports
+      - ./server:/app
