@@ -4,3 +4,4 @@
 node_modules
 model
 tokenizermodel/model.safetensors
+.vscode
