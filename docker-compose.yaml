@@ -4,8 +4,7 @@ version: "3.9"
 services: 
   web:
     build: 
-      context:
-        ./website
+      context: ./website
     ports: 
       - "5173:5173"
     volumes:

@@ -3,16 +3,37 @@
 
 ![](./Demo.mov)
 
-## Project Description
+## Description
 
-My high school teaches a set of eight grammatical errors known as Megablunders: pronoun reference (PR), sentence fragments (FRAG), pronoun case (CASE), dangling modifiers (DM), misplaced modifiers (MM), pronoun agreement (AGREE), run-on sentences (ROS), and parallelism (PAR). This repo contains a model (in the model directory) capable of identifying the errors, a server (in the server directory) to run a simple FastAPI service that can return the type of error using the model, and a simple Vite app that acts as a UI for the model and API. 
+My high school teaches a set of eight grammatical errors known as Megablunders: pronoun reference (PR), sentence fragments (FRAG), pronoun case (CASE), dangling modifiers (DM), misplaced modifiers (MM), pronoun agreement (AGREE), run-on sentences (ROS), and parallelism (PAR). 
 
-The model is a fine-tuned version of BERT, trained on a dataset of around 400 megablunders. The dataset is stored on Kaggle, and if you would like access please contact me.
+This repository contains: 
+- A fine-tuned BERT model (in /model) capable of identifying these 9 errors
+- A simple FastAPI service (in /server) that allows the model to return predictions
+- A Vite app (in /website) that provides a UI for which the model can be accessed
 
-## Running the API and Website
+The model was trained on a dataset, which is stored on Kaggle, of around 400 megablunders. If you would like a link to the dataset, please contact me. 
 
-There are Docker images for both the website and API. Both of these can be run by using the following command: `docker-compose up --build`. The only thing needed for this is Docker and Docker Compose -- all the packages will get installed by the Dockerfiles. 
+## Usage
 
-## Running the Notebook
+### Website & API
 
-While there is a Dockerfile included with the notebook, I would recommend running it on Kaggle or similar because 
+In order to run the website, all that you need is Docker and docker-compose. With both of these installed, you can run the docker-compose.yaml file using the following command: 
+
+`docker-compose up --build`
+
+This will install all the needed packages and run the Dockerfiles stored in the /server and /website directories. 
+
+### Model
+
+There is another Dockerfile in the /model directory that has everything needed to run the model; however, I would suggest running the notebook on Kaggle or similar because of the computing resources needed to fine-tune BERT.
+
+
+## Resources 
+
+- [Hugging Face Fine-Tuning Tutorial](https://huggingface.co/docs/transformers/en/training)
+- [Isaac Wu's Megablunder Problem Creator](https://github.com/isaacwu2000/Megablunder-Problem-Creator)
+
+## License
+
+MIT License - see LICENSE file for details.
